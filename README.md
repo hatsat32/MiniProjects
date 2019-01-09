@@ -1,6 +1,6 @@
 # PythonMiniProjects
 
-Python mini projelerim. Python da kendimi geliştirirken yaptığım çalışmalar, programlar ve daha fazlası.
+Mini projelerim. Çeşitli programlama dillerinde kendimi geliştirirken yaptığım çalışmalar, programlar ve daha fazlası.
 
 ## List
 
